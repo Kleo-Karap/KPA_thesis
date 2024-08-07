@@ -1,2 +1,2 @@
 # KPA_thesis
-Key Point Analysis in Greek: A new dataset and beslines
+Key Point Analysis in Greek: A new dataset and baselines

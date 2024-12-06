@@ -11,7 +11,7 @@ Google Colab and Kaggle were used for model finetuning, few-shot learning and in
 Python > 3.6
 PyTorch
 sentence-transformers
-# Introduction (Keypoint Analysis)
+
 
 # ArgKP-2021-GR Dataset
 

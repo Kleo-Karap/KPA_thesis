@@ -12,13 +12,13 @@ Python > 3.6
 PyTorch
 sentence-transformers
 
-
 # ArgKP-2021-GR Dataset
 (here link to hf)
 
-# Experiments KPM 
+# How to use the project 
+# 1. Experiments KPM 
 
-# Experiments KPG
+# 2. Experiments KPG
 
 # Main Findings
 

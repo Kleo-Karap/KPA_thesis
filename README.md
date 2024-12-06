@@ -2,7 +2,7 @@
 Key Point Analysis in Greek: A new dataset and baselines
 
 Code to upload:
-2. KPM baselines (SmatchtoPR, Enigma, Meltemi Experiements)
+2. KPM baselines (Meltemi Experiements)
 3. KPG baseline (Meltemi finetuning)
 
 # Development Environment and Libraries

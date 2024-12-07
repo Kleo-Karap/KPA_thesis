@@ -4,7 +4,11 @@ Key Point Analysis in Greek: A new dataset and baselines
 Code to upload:
 2. KPM baselines (Meltemi Experiements)
 3. KPG baseline (Meltemi finetuning)
-
+# Hardware used 
+- Number of nodes: 1
+- Number of GPUs per node: 1
+- GPU type: NVIDIA P100
+- GPU memory: 16GB
 # Development Environment and Libraries
 The code has been run in Jupyter notebooks to be easily replicable
 Google Colab and Kaggle were used for model finetuning, few-shot learning and inference

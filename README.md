@@ -28,4 +28,5 @@ The dataset has been made availalble in HugginFace: https://huggingface.co/datas
 # References
 [1] M. Kapadnis, S. Patnaik, S. Panigrahi, V. Madhavan, and A. Nandy, *Team Enigma at ArgMining-EMNLP 2021: Leveraging Pre-trained Language Models for Key Point Matching*, GitHub repository. [Online]. Available: https://github.com/manavkapadnis/Enigma_ArgMining
 
+[2] M. Alshomary et al., *ArgMining 2021 Key Point Analysis Shared Task Code*. GitHub repository. [Online]. Available: https://github.com/webis-de/argmining-21-keypoint-analysis-sharedtask-code
 - Code for Stemming: https://gist.github.com/Patelis-GM/e1f8cf553f27ff40ed49db8c310611b3

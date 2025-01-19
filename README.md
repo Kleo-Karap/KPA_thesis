@@ -34,4 +34,4 @@ The dataset has been made availalble in HugginFace: https://huggingface.co/datas
 
 [3] M. Grootendorst, "LLM representation for BERTopic," *BERTopic Documentation*. [Online]. Available: https://maartengr.github.io/BERTopic/getting_started/representation/llm.html.
 
-- Code for Stemming: https://gist.github.com/Patelis-GM/e1f8cf553f27ff40ed49db8c310611b3
+- Code for Greek Stemming: https://gist.github.com/Patelis-GM/e1f8cf553f27ff40ed49db8c310611b3

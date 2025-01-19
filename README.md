@@ -13,8 +13,8 @@ Each folder contains code related to specific project stages.
 - Greek data EDA: contains minimal data analysis steps, concering dataset class imbalance, average token number in arguments and key points.
 
 # 2. Experiments KPM 
-- SMatchToPR re-implementation with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
-- Enigma re-implementation with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
+- SMatchToPR re-implementation [1] with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
+- Enigma re-implementation [2] with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
 - 
 
 # 3. Experiments KPG
@@ -37,9 +37,9 @@ sentence-transformers
 # Contributor Expectations/ Future Work
 
 # References
-[1] M. Kapadnis, S. Patnaik, S. Panigrahi, V. Madhavan, and A. Nandy, *Team Enigma at ArgMining-EMNLP 2021: Leveraging Pre-trained Language Models for Key Point Matching*, GitHub repository. [Online]. Available: https://github.com/manavkapadnis/Enigma_ArgMining
+[1] M. Alshomary et al., *ArgMining 2021 Key Point Analysis Shared Task Code*. GitHub repository. [Online]. Available: https://github.com/webis-de/argmining-21-keypoint-analysis-sharedtask-code
 
-[2] M. Alshomary et al., *ArgMining 2021 Key Point Analysis Shared Task Code*. GitHub repository. [Online]. Available: https://github.com/webis-de/argmining-21-keypoint-analysis-sharedtask-code
+[2] M. Kapadnis, S. Patnaik, S. Panigrahi, V. Madhavan, and A. Nandy, *Team Enigma at ArgMining-EMNLP 2021: Leveraging Pre-trained Language Models for Key Point Matching*, GitHub repository. [Online]. Available: https://github.com/manavkapadnis/Enigma_ArgMining
 
 [3] M. Grootendorst, "LLM representation for BERTopic," *BERTopic Documentation*. [Online]. Available: https://maartengr.github.io/BERTopic/getting_started/representation/llm.html.
 

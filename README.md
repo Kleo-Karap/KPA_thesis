@@ -6,9 +6,11 @@ Each folder contains code related to specific project stages.
 # 1. ArgKP-2021 Dataset Translation (EN-GR)
 - Zero-shot translation of the arguments, key points, topics of the [ArgKP-2021](https://github.com/IBM/KPA_2021_shared_task/tree/main/kpm_data) train set with Google's [madlad400-3b-mt](https://huggingface.co/google/madlad400-3b-mt).
 - Human translation of the arguments, key points, topics of the [ArgKP-2021](https://github.com/IBM/KPA_2021_shared_task/tree/main/kpm_data) validation ad test sets.
+- args_kps_labels: contain the translated argument, key points and labels .csv files, as provided in the original ArgKP-2021 dataset.
 - Pred_dev_test folder: contains the human translated dev and test sets including the undecided pairs (refer to ArgKP-2021 dataset creation), required for the KPM evaluation setting. (refer to Overview paper)
-- hf_dataset: contains the code for generating the Greek, labelled train, validation and test set for the HugginFace dataset upload.
+- hf_dataset: contains the code for generating the Greek, labelled train, validation and test set for the HugginFace dataset upload. Each file is sorted in ascending order, based on the value of the arg_id column.
 - The dataset has been made availalble in HugginFace under the title : [ArgKP_2021_GR](https://huggingface.co/datasets/Kleo/ArgKP_2021_GR)
+- Greek data EDA: contains minimal data analysis steps, concering dataset class imbalance, average token number in arguments and key points.
 
 # 2. Experiments KPM 
 

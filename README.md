@@ -39,6 +39,15 @@ sentence-transformers
 ![image](https://github.com/user-attachments/assets/eb7d4a0e-d966-4c90-bbd2-30dd702b4aca)
 
 # Contributor Expectations/ Future Work
+ **KPM**
+1. More PEFT methods
+2. Classification as NLG task
+   
+  **KGP**
+1. Improve Argument clustering methods :Iterative clustering
+2. Improve embedding quality (with a Greek Sentence-transformer model, notyet available)
+3. Meltemi-finetuning
+4. Establish a more clear evaluation framework
 
 # References
 [1] M. Alshomary et al., *ArgMining 2021 Key Point Analysis Shared Task Code*. GitHub repository. [Online]. Available: https://github.com/webis-de/argmining-21-keypoint-analysis-sharedtask-code

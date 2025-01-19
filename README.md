@@ -20,8 +20,8 @@ Each folder contains code related to specific project stages.
 # 3. Experiments KPG
 - Argument Clustering (BERTopic) and KPG with Representation tuning
 - BERTopic hyperparameter tuning (here the 4 parameters tuned) with OPTUNA and DBCV as maximization metric
-- Representation tuning experiments with LLMs [3]: [IMISLab/GreekWiki-umt5-base](https://huggingface.co/IMISLab/GreekWiki-umt5-base), [ilsp/Meltemi-7B-v1.5](https://huggingface.co/ilsp/Meltemi-7B-v1.5), [ilsp/Meltemi-7B-Instruct-v1.5](https://huggingface.co/ilsp/Meltemi-7B-Instruct-v1.5)
-- 
+- Zero- and Few-shot Representation tuning experiments with LLMs [3]: [IMISLab/GreekWiki-umt5-base](https://huggingface.co/IMISLab/GreekWiki-umt5-base), [ilsp/Meltemi-7B-v1.5](https://huggingface.co/ilsp/Meltemi-7B-v1.5), [ilsp/Meltemi-7B-Instruct-v1.5](https://huggingface.co/ilsp/Meltemi-7B-Instruct-v1.5)
+
 # Hardware used 
 - Number of nodes: 1
 - Number of GPUs per node: 1

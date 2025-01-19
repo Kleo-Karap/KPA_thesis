@@ -1,7 +1,15 @@
 # Key Point Analysis in Greek: A New Dataset and Baselines
-This repo contains the code implementations for developing baseline solutions for the [Key Point Analysis Shared Tasks's subtasks](https://github.com/IBM/KPA_2021_shared_task) (Key Point Matching-KPM and Key Point Generation-KPG) in Greek, a low-resource language.
-This thesis project is submitted in partial fulfillment of the requirements for the [MSc in “Language Technology”](https://www.di.uoa.gr/en/studies/graduate/lg) in the [Department of Informatics and Telecommunications of National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en)
+This repo contains the code implementations for developing baseline solutions for the [Key Point Analysis Shared Tasks's subtasks](https://github.com/IBM/KPA_2021_shared_task) (Key Point Matching-KPM and Key Point Generation-KPG) in Greek, a low-resource language. 
+The project is submitted in partial fulfillment of the requirements for the [MSc in “Language Technology”](https://www.di.uoa.gr/en/studies/graduate/lg) in the [Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en).
+Each folder contains code related to specific project stages. 
 
+# 1. ArgKP-2021 Dataset Translation (EN-GR)
+- Zero-shot translation of the arguments, key points, topics of the ArgKP-2021 train set.
+The dataset has been made availalble in HugginFace: https://huggingface.co/datasets/Kleo/ArgKP_2021_GR
+
+# 2. Experiments KPM 
+
+# 3. Experiments KPG
 # Hardware used 
 - Number of nodes: 1
 - Number of GPUs per node: 1
@@ -13,14 +21,6 @@ Google Colab and Kaggle were used for model finetuning and zero-/few-shot infere
 Python > 3.6
 PyTorch
 sentence-transformers
-
-# ArgKP-2021-GR Dataset
-The dataset has been made availalble in HugginFace: https://huggingface.co/datasets/Kleo/ArgKP_2021_GR
-
-# How to use the project 
-# 1. Experiments KPM 
-
-# 2. Experiments KPG
 
 # Main Findings
 ![image](https://github.com/user-attachments/assets/325b792d-c712-4d85-80b0-82d752c51677)

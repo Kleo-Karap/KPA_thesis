@@ -1,23 +1,20 @@
 # KPA_thesis
-Key Point Analysis in Greek: A new dataset and baselines
+Key Point Analysis in Greek: A New Dataset and Baselines
 
-Code to upload:
-2. KPM baselines (Meltemi Experiements)
-3. KPG baseline (Meltemi finetuning)
 # Hardware used 
 - Number of nodes: 1
 - Number of GPUs per node: 1
 - GPU type: NVIDIA P100
 - GPU memory: 16GB
 # Development Environment and Libraries
-The code has been run in Jupyter notebooks to be easily replicable
-Google Colab and Kaggle were used for model finetuning, few-shot learning and inference
+The code has been run in Jupyter notebooks to be easily replicable.
+Google Colab and Kaggle were used for model finetuning and zero-/few-shot inference
 Python > 3.6
 PyTorch
 sentence-transformers
 
 # ArgKP-2021-GR Dataset
-(here link to hf)
+The dataset has been made availalble in HugginFace: https://huggingface.co/datasets/Kleo/ArgKP_2021_GR
 
 # How to use the project 
 # 1. Experiments KPM 

@@ -1,5 +1,5 @@
-# KPA_thesis
-Key Point Analysis in Greek: A New Dataset and Baselines
+# Key Point Analysis in Greek: A New Dataset and Baselines
+
 
 # Hardware used 
 - Number of nodes: 1

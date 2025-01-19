@@ -4,7 +4,8 @@ The project is submitted in partial fulfillment of the requirements for the [MSc
 Each folder contains code related to specific project stages. 
 
 # 1. ArgKP-2021 Dataset Translation (EN-GR)
-- Zero-shot translation of the arguments, key points, topics of the [ArgKP-2021](https://github.com/IBM/KPA_2021_shared_task/tree/main/kpm_data) train set.
+- Zero-shot translation of the arguments, key points, topics of the [ArgKP-2021](https://github.com/IBM/KPA_2021_shared_task/tree/main/kpm_data) train set with Google's [madlad400-3b-mt](https://huggingface.co/google/madlad400-3b-mt).
+- 
 The dataset has been made availalble in HugginFace: https://huggingface.co/datasets/Kleo/ArgKP_2021_GR
 
 # 2. Experiments KPM 

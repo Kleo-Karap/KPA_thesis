@@ -22,8 +22,8 @@ The dataset has been made availalble in HugginFace: https://huggingface.co/datas
 # 2. Experiments KPG
 
 # Main Findings
-![image](https://github.com/user-attachments/assets/426c3082-8241-4fdc-9833-38b28c5df613)
-![image](https://github.com/user-attachments/assets/f6552e77-2274-4e69-8e89-3792bc589aeb)
+![image](https://github.com/user-attachments/assets/d5e578c1-3d55-42c7-a774-3d87766ddd4b)
+![image](https://github.com/user-attachments/assets/eb7d4a0e-d966-4c90-bbd2-30dd702b4aca)
 
 # Contributor Expectations/ Future Work
 

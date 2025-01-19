@@ -12,15 +12,20 @@ Each folder contains code related to specific project stages.
 - The dataset has been made availalble in HugginFace under the title : [ArgKP_2021_GR](https://huggingface.co/datasets/Kleo/ArgKP_2021_GR)
 - Greek data EDA: contains minimal data analysis steps, concering dataset class imbalance, average token number in arguments and key points.
 
-# 2. Experiments KPM 
+# 2. KPM 
+**Experiments**
 - SMatchToPR re-implementation [1] with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
 - Enigma re-implementation [2] with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
 - Classification finetuning experiments with [ilsp/Meltemi-7B-v1](https://huggingface.co/ilsp/Meltemi-7B-v1) with Quantization(4bit) QLoRa, num_epochs=1 
 
-# 3. Experiments KPG
+**Metrics**
+# 3. KPG
+**Experiments**
 - Argument Clustering (BERTopic) and KPG with Representation tuning
 - BERTopic hyperparameter tuning (here the 4 parameters tuned) with OPTUNA and DBCV as maximization metric
 - Zero- and Few-shot Representation tuning experiments with LLMs [3]: [IMISLab/GreekWiki-umt5-base](https://huggingface.co/IMISLab/GreekWiki-umt5-base), [ilsp/Meltemi-7B-v1.5](https://huggingface.co/ilsp/Meltemi-7B-v1.5), [ilsp/Meltemi-7B-Instruct-v1.5](https://huggingface.co/ilsp/Meltemi-7B-Instruct-v1.5)
+  
+**Metrics**
 
 # Hardware used 
 - Number of nodes: 1

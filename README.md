@@ -1,4 +1,5 @@
 # Key Point Analysis in Greek: A New Dataset and Baselines
+This repo contains the code implementations for developing baseline solutions for the (Key Point Analysis subtasks (Key Point Matching-KPM and Key Point Generation-KPG))[https://github.com/IBM/KPA_2021_shared_task] in Greek, a low-resource language.
 This repo contains the code implementations related to my thesis project submitted in partial fulfillment of the requirements for the [MSc in “Language Technology”](https://www.di.uoa.gr/en/studies/graduate/lg) in the [Department of Informatics and Telecommunications of National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en)
 
 # Hardware used 

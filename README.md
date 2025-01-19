@@ -13,6 +13,9 @@ Each folder contains code related to specific project stages.
 - Greek data EDA: contains minimal data analysis steps, concering dataset class imbalance, average token number in arguments and key points.
 
 # 2. Experiments KPM 
+- SMatchToPR re-implementation with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
+- Enigma re-implementation with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
+- 
 
 # 3. Experiments KPG
 # Hardware used 

@@ -48,8 +48,8 @@ PyTorch
 sentence-transformers
 
 # Main Findings
-![image](https://github.com/user-attachments/assets/325b792d-c712-4d85-80b0-82d752c51677)
-![image](https://github.com/user-attachments/assets/eb7d4a0e-d966-4c90-bbd2-30dd702b4aca)
+**KPM**
+**KPG**
 
 # Contributor Expectations/ Future Work
  **KPM**

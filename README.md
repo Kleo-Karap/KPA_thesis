@@ -43,11 +43,10 @@ For implementation details refer to [Thesis' text](https://pergamos.lib.uoa.gr/u
 - GPU type: NVIDIA P100
 - GPU memory: 16GB
 # Development Environment and Libraries
-The code has been run in Jupyter notebooks to be easily replicable.
-Google Colab and Kaggle were used for model finetuning and zero-/few-shot inference
-Python > 3.6
-PyTorch
-sentence-transformers
+The code has been run in Jupyter notebooks to be easily replicable. Google Colab and Kaggle were used for model finetuning and zero-/few-shot inference
+- Python > 3.6
+- PyTorch
+- sentence-transformers
 
 # Main Findings
 **KPM**

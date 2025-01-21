@@ -27,6 +27,9 @@ Each folder contains code related to specific project stages.
   
 **Metrics**
 
+# 4. Final Display
+- Examples of generated key points and extraction of matching scores with the developed Meltemi-7b-base Key Point Matcher model (here link to hugginface)
+  
 # Hardware used 
 - Number of nodes: 1
 - Number of GPUs per node: 1

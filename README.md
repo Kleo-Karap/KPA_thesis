@@ -21,12 +21,16 @@ Each folder contains code related to specific project stages.
 **Metrics**
 - mAP(mean Average Precision): strict and relaxed. For details refer to my [MSc Thesis Text](https://pergamos.lib.uoa.gr/uoa/dl/object/3456844/file.pdf) or [IBM/KPA Shared Task repo](https://github.com/IBM/KPA_2021_shared_task)
 # 3. KPG
+Argument Clustering (BERTopic) and KPG with Representation tuning
+
 **Experiments**
-- Argument Clustering (BERTopic) and KPG with Representation tuning
-- BERTopic hyperparameter tuning (here the 4 parameters tuned) with OPTUNA and DBCV as maximization metric
+- BERTopic hyperparameter tuning (for UMAP: n_nighbors, num_target_dimensions, for HDBSCAN: min_samples, cluster_selection_method) with OPTUNA and DBCV as maximization metric
 - Zero- and Few-shot Representation tuning experiments with LLMs [3]: [IMISLab/GreekWiki-umt5-base](https://huggingface.co/IMISLab/GreekWiki-umt5-base), [ilsp/Meltemi-7B-v1.5](https://huggingface.co/ilsp/Meltemi-7B-v1.5), [ilsp/Meltemi-7B-Instruct-v1.5](https://huggingface.co/ilsp/Meltemi-7B-Instruct-v1.5)
   
 **Metrics**
+- [ROUGE](https://huggingface.co/spaces/evaluate-metric/rouge) + Greek Stemmer [4]
+- [BERTScore](https://huggingface.co/spaces/evaluate-metric/bertscore)
+For implementation details refer to [Thesis' text](https://pergamos.lib.uoa.gr/uoa/dl/object/3456844/file.pdf)
 
 # 4. Final Display
 - Examples of generated key points and extraction of matching scores with the developed Meltemi-7b-base Key Point Matcher model (here link to hugginface)
@@ -65,4 +69,4 @@ sentence-transformers
 
 [3] M. Grootendorst, "LLM representation for BERTopic," *BERTopic Documentation*. [Online]. Available: https://maartengr.github.io/BERTopic/getting_started/representation/llm.html.
 
-- Code for Greek Stemming: https://gist.github.com/Patelis-GM/e1f8cf553f27ff40ed49db8c310611b3
+[4] “GreekStemmer.ipynb,” GitHuB Gist, Dec. 07, 2023. [Online]. Available: https://gist.github.com/Patelis-GM/e1f8cf553f27ff40ed49db8c310611b3

@@ -21,7 +21,7 @@ Each folder contains code related to specific project stages.
 **Metrics**
 - mAP(mean Average Precision): strict and relaxed. For details refer to my [MSc Thesis Text](https://pergamos.lib.uoa.gr/uoa/dl/object/3456844/file.pdf) or [IBM/KPA Shared Task repo](https://github.com/IBM/KPA_2021_shared_task)
 # 3. KPG
-Argument Clustering (BERTopic) and KPG with Representation tuning
+Argument Clustering (BERTopic) and KPG with Representation tuning [3]
 
 **Experiments**
 - BERTopic hyperparameter tuning (for UMAP: n_nighbors, num_target_dimensions, for HDBSCAN: min_samples, cluster_selection_method) with OPTUNA and DBCV as maximization metric

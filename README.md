@@ -19,6 +19,7 @@ Each folder contains code related to specific project stages.
 - Classification finetuning experiments with [ilsp/Meltemi-7B-v1](https://huggingface.co/ilsp/Meltemi-7B-v1) with Quantization(4bit) QLoRa, num_epochs=1 
 
 **Metrics**
+- mAP(mean Average Precision): strict and relaxed. For details refer to my [MSc Thesis Text](https://pergamos.lib.uoa.gr/uoa/dl/object/3456844/file.pdf) or [IBM/KPA Shared Task repo](https://github.com/IBM/KPA_2021_shared_task)
 # 3. KPG
 **Experiments**
 - Argument Clustering (BERTopic) and KPG with Representation tuning

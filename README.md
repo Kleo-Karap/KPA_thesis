@@ -48,9 +48,6 @@ The code has been run in Jupyter notebooks to be easily replicable. Google Colab
 - PyTorch
 - sentence-transformers
 
-# Main Findings
-**KPM**
-**KPG**
 
 # Contributor Expectations/ Future Work
  **KPM**

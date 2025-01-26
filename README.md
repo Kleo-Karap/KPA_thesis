@@ -51,7 +51,7 @@ The code has been run in Jupyter notebooks to be easily replicable. Google Colab
 
 # Contributor Expectations/ Future Work
  **KPM**
-1. More PEFT methods
+1. More PEFT methods (p-tuning, prompt-tuning)
 2. Classification as NLG task
    
   **KGP**

@@ -33,9 +33,9 @@ Argument Clustering (BERTopic) and KPG with Representation tuning [3]
 For implementation details refer to [Thesis' text](https://pergamos.lib.uoa.gr/uoa/dl/object/3456844/file.pdf)
 
 # 4. Final Display
-- Examples of generated key points and extraction of matching scores with the developed Meltemi-7b-base Key Point Matcher model (here link to hugginface)
+- Examples of generated key points and extraction of matching scores with the [developed Meltemi-7b-base Key Point Matcher model](https://huggingface.co/Kleo/meltemi_base_finetuning_kpm_kp_arg)
 - Load with adapters: Kleo/meltemi_base_finetuning_kpm_kp_arg
-- Load full model trained with keypoint_argument input pairs: Kleo/Meltemi_7b_v1_base_finetuned_seq_cls_kpm_kp_arg_weighted
+
   
 # Hardware used 
 - Number of nodes: 1

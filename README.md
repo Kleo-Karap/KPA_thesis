@@ -55,7 +55,7 @@ The code has been run in Jupyter notebooks to be easily replicable. Google Colab
 2. Classification as NLG task
    
   **KGP**
-1. Improve Argument clustering methods: Iterative clustering (refer to Li et al. 2023 and relevant repo:https://github.com/HaoBytes/KeyPoint-Analysis
+1. Improve Argument clustering methods: Iterative clustering (refer to Li et al. 2023 and relevant repo:https://github.com/HaoBytes/KeyPoint-Analysis)
 2. Improve embedding quality (with a Greek Sentence-transformer model, notyet available)
 3. Meltemi-finetuning
 4. Establish a more clear evaluation framework

@@ -16,7 +16,7 @@ Each folder contains code related to specific project stages.
 **Experiments**
 - SMatchToPR re-implementation [1] with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
 - Enigma re-implementation [2] with BERT and GreekBERT, with original (EN) and translated (GR) data respectively.
-- Classification finetuning experiments with [ilsp/Meltemi-7B-v1](https://huggingface.co/ilsp/Meltemi-7B-v1) with Quantization(4bit) QLoRa, num_epochs=1 
+- Classification finetuning experiments with [ilsp/Meltemi-7B-v1](https://huggingface.co/ilsp/Meltemi-7B-v1) with Quantization(4bit) QLoRa on the translated data (GR)
 
 **Metrics**
 - mAP(mean Average Precision): strict and relaxed. For details refer to my [MSc Thesis Text](https://pergamos.lib.uoa.gr/uoa/dl/object/3456844/file.pdf) or [IBM/KPA Shared Task repo](https://github.com/IBM/KPA_2021_shared_task)
@@ -24,7 +24,7 @@ Each folder contains code related to specific project stages.
 Argument Clustering (BERTopic) and KPG with Representation tuning [3]
 
 **Experiments**
-- BERTopic hyperparameter tuning (for UMAP: n_nighbors, num_target_dimensions, for HDBSCAN: min_samples, cluster_selection_method) with OPTUNA and DBCV as maximization metric
+- BERTopic hyperparameter tuning (for UMAP: n_nighbors, num_target_dimensions, for HDBSCAN: min_samples, cluster_selection_method) with [Optuna](https://optuna.org/) and [DBCV index](https://permetrics.readthedocs.io/en/latest/pages/clustering/DBCVI.html) as maximization metric
 - Zero- and Few-shot Representation tuning experiments with LLMs [3]: [IMISLab/GreekWiki-umt5-base](https://huggingface.co/IMISLab/GreekWiki-umt5-base), [ilsp/Meltemi-7B-v1.5](https://huggingface.co/ilsp/Meltemi-7B-v1.5), [ilsp/Meltemi-7B-Instruct-v1.5](https://huggingface.co/ilsp/Meltemi-7B-Instruct-v1.5)
   
 **Metrics**

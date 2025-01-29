@@ -55,7 +55,7 @@ The code has been run in Jupyter notebooks to be easily replicable. Google Colab
 2. Classification as NLG task
    
   **KGP**
-1. Improve Argument clustering methods: Iterative clustering (refer to Li et al. 2023 and relevant repo:https://github.com/HaoBytes/KeyPoint-Analysis)
+1. Improve Argument clustering methods: Iterative clustering (refer to Li et al. [5] and relevant repo:https://github.com/HaoBytes/KeyPoint-Analysis)
 2. Improve embedding quality (with a Greek Sentence-transformer model, notyet available)
 3. Meltemi-finetuning
 4. Establish a more clear evaluation framework
@@ -68,3 +68,5 @@ The code has been run in Jupyter notebooks to be easily replicable. Google Colab
 [3] M. Grootendorst, "LLM representation for BERTopic," *BERTopic Documentation*. [Online]. Available: https://maartengr.github.io/BERTopic/getting_started/representation/llm.html.
 
 [4] “GreekStemmer.ipynb,” GitHuB Gist, Dec. 07, 2023. [Online]. Available: https://gist.github.com/Patelis-GM/e1f8cf553f27ff40ed49db8c310611b3
+
+[5] H. Li, V. Schlegel, R. Batista-Navarro, and G. Nenadic, “Do You Hear The People Sing? Key Point Analysis via Iterative Clustering and Abstractive Summarisation,” vol. 1, p. 14064, 1408, [Online]. Available: https://aclanthology.org/2023.acl-long.786.pdf

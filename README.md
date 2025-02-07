@@ -34,7 +34,7 @@ For implementation details refer to [Thesis' text](https://pergamos.lib.uoa.gr/u
 
 # 4. Final Display
 - Examples of generated key points and extraction of matching scores with the [developed Meltemi-7b-base Key Point Matcher model](https://huggingface.co/Kleo/meltemi_base_finetuning_kpm_kp_arg)
-- Load with adapters: Kleo/meltemi_base_finetuning_kpm_kp_arg
+
 
   
 # Hardware used 
